@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insairz
 - 👀 I’m interested in solving problem in the medical field
-- 🌱 I’m currently learning a pharmacist student in my 4.1 and also pursuing computer science
+- 🌱 I’m currently learning a pharmacist student in my 4.1 and also pursuing data science
 - 💞️ I’m looking to collaborate on medical solutions and programing
 - 📫 How to reach me through gmail- onchariboazkereri@gmail.com
 - 😄 Pronouns: ...
