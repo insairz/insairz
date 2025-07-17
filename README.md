@@ -4,7 +4,7 @@
 
 ## 🧑‍⚕️ Who Am I?
 
-- 🎓 Final-year **Bachelor of Pharmacy** student (Year 4.1)
+- 🎓**Bachelor of Pharmacy** student (Year 4.1)
 - 📊 Aspiring **Business & Data Analyst** with a healthcare focus
 - 🧪 Passionate about **data science for public health impact**
 - 📈 Turning complex health and business data into actionable insights
